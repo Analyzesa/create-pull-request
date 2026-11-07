@@ -1,6 +1,6 @@
-# ISO Domain Dispute Cases — Generated 2026-09-30
+# ISO Domain Dispute Cases — Generated 2026-11-07
 
-Generated at: 2026-09-30T09:02:42Z
+Generated at: 2026-11-07T09:19:06Z
 Source: WIPO UDRP case index
 
 ## Summary
